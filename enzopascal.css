@@ -1,0 +1,38 @@
+* {
+  font-family: sans-serif;
+
+}
+
+.container {
+  margin-left: 30%;
+  font-size: 22px;
+}
+
+.container p {
+  margin-right: 30%;
+}
+
+.btn {
+  color: #fff;
+  background-color: rgb(69, 134, 108);
+  width: 200px;
+  height: 35px;
+  border-radius: 3px;
+  border: 0px;
+
+}
+
+h2 {
+  color: rgb(82, 167, 131);
+}
+
+h1,
+p,
+h3 {
+  color: rgb(55, 60, 94);
+}
+
+img {
+  width: 280px;
+  margin-left: 37%;
+}
