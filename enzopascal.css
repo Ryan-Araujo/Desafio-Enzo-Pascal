@@ -1,38 +1,35 @@
-* {
-  font-family: sans-serif;
-
-}
-
-.container {
-  margin-left: 30%;
+body {
+  font-family: "Montserrat", sans-serif;
   font-size: 22px;
+  color: #293651;
 }
 
-.container p {
-  margin-right: 30%;
+.primeira-cor {
+  color: #00a78e;
+}
+
+.img {
+  text-align: center;
 }
 
 .btn {
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #00a78e;
   color: #fff;
-  background-color: rgb(69, 134, 108);
-  width: 200px;
-  height: 35px;
-  border-radius: 3px;
-  border: 0px;
+  padding: 0 40px;
+  height: 55px;
+  line-height: 55px;
+  border-radius: 5px;
+  cursor: pointer;
 
 }
 
-h2 {
-  color: rgb(82, 167, 131);
+.btn:hover {
+  background-color: #293651;
 }
 
-h1,
-p,
-h3 {
-  color: rgb(55, 60, 94);
-}
-
-img {
-  width: 280px;
-  margin-left: 37%;
+.container {
+  margin: 50px 150px;
 }
